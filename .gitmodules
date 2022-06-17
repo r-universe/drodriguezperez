@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "growthmodels"]
+	path = growthmodels
+	url = https://github.com/drodriguezperez/growthmodels
+	shallow = true
+	registered = true
+[submodule "kselection"]
+	path = kselection
+	url = https://github.com/drodriguezperez/kselection
+	shallow = true
+	registered = true

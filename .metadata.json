@@ -1,0 +1,10 @@
+[
+  {
+    "package": "growthmodels",
+    "oncran": true
+  },
+  {
+    "package": "kselection",
+    "oncran": true
+  }
+]
